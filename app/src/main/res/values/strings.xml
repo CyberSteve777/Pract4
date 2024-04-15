@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pract4</string>
+    <string name="insert_name">Введите имя*</string>
+    <string name="insert_surname">Введите фамилию*</string>
+    <string name="iinfo">Ввести информацию</string>
+    <string name="missing">Отсутствуют</string>
+    <string name="empty">Не указано</string>
+    <string name="empty1">Не указана</string>
+    <string name="comments">Комментарии</string>
+    <string name="time">Время</string>
+    <string name="date">Дата</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="idata">Введите дату</string>
+    <string name="itime">Введите время</string>
+    <string name="icomment">Введите комментарий</string>
+    <string name="ok">OK</string>
+</resources>
